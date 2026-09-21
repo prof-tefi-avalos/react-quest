@@ -1,11 +1,11 @@
 // 🎯 MISIÓN 2 · Un solo raíz
 // Objetivos:
-//   1) Cambiá el <div> por un Fragment <> ... </>
+//   1) Cambiá el div por fragment
 //   2) Agregá una lista <ul> con al menos 3 <li>
-//   3) Agregá un <p> explicando por qué existe esta regla
+//   3) Agregá un <p> explicando por qué existe esta regla (de un componente raiz)
 //
 // 🔥 BONUS "romper a propósito": sacá el Fragment y dejá el <h2> y el <p> sueltos.
-//    Leé el error rojo en voz alta. Después volvé a ponerlo.
+//    Leé el error y después volvé a ponerlo.
 
 function Mision2() {
   return (

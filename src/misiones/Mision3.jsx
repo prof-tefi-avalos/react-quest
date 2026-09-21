@@ -3,9 +3,7 @@
 // y buscá los warnings rojos. Arreglá el código hasta que quede limpio.
 //
 // Objetivos:
-//   1) className en vez de class
-//   2) htmlFor en vez de for (y el id del input debe coincidir)
-//   3) El botón: onClick y tabIndex en camelCase
+//   Encontrar los atributos mal escritos
 
 function Mision3() {
   return (

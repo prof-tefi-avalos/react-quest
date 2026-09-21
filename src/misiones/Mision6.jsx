@@ -1,5 +1,5 @@
 // 🏆 MISIÓN 6 · JEFE FINAL: tu portfolio
-// Armá un portfolio que junte todo. Objetivos (mirá el navegador para verlos tildarse):
+// Armá un portfolio que junte todo.
 //   1) <header> con un <h1> que muestre tu nombre desde una variable
 //   2) Una lista <ul> con 3 o más skills
 //   3) 2 o más proyectos con className="proyecto" → ¡creá un componente Proyecto y reutilizalo!

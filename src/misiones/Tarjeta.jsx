@@ -1,5 +1,4 @@
 // 🧱 Este es el componente que vas a usar en la MISIÓN 5.
-// PASO 2 · Exportalo: agregá al final  export default Tarjeta;
 
 function Tarjeta() {
   return (
@@ -10,5 +9,4 @@ function Tarjeta() {
   );
 }
 
-// 👇 descomentá esta línea
 // export default Tarjeta;

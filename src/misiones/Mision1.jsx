@@ -1,7 +1,7 @@
 // 🎯 MISIÓN 1 · Hola, JSX
 // Objetivos:
 //   1) Cambiá "???" por tu nombre.
-//   2) Mostrá en un <p> cuántos años vas a tener el año que viene (edad + 1).
+//   2) Mostrá en un <p> cuántos años vas a tener el año que viene.
 //   3) Mostrá el año actual con new Date().getFullYear()
 // Guardá el archivo (Ctrl/Cmd + S) y mirá cómo se tildan los objetivos en el navegador.
 
